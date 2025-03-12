@@ -2,6 +2,25 @@
 # <center>Selamat Datang di Perpustakaan ester gea</center>
 <body>
   Hi, ini adalah Homepage Perpustakaan personal Ester Gea. Perpustakaan Ester Gea dibuat untuk memenuhi keperluan mata kuliah Pengembangan Web Perpustakaan yang nantinya Anda dapat menemukan berbagai konten yang saya bagikan!
+<html>
+<head>
+<style>
+body {
+    background-color: #ADD8E6;
+}
+h1 {
+    background-color: ##00FFFF;
+}
+p {
+    background-color: #00FFFF);
+}
+</style>
+</head>
+<body>
+ 
+</body>
+</html>
+  
   <h4><a href="https://perpustakaan.poltekparmedan.ac.id/">Kerjasama</a>
 <h3>Homepage</h3>
 <h2>Biodata</h2>
